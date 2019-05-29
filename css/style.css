@@ -1,0 +1,83 @@
+.container1{
+	background: url("../images/banner1.jpg");
+	height: 600px;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 10px;
+	padding-bottom: 10px;	
+	width: 100%; 
+}
+.container2{
+	background: url("");
+	height: 600px;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 25px;
+	padding-bottom: 10px;	
+	width: 100%; 
+}
+.letra1{
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Arial;
+	text-align: center;
+}
+.letra2{
+	color: #FFFFFF;
+	font-size: 9px;
+	font-family: Arial;
+	text-align: center;
+}
+.letra3{
+	color: #FFFFFF;
+	font-size: 10px;
+	font-family: Arial;
+	text-align: center;
+}
+.letra4{
+	color: #FFFFFF;
+	font-size: 30px;
+	font-family: Arial;
+}
+.letra5{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Arial;
+}
+.letra6{
+	color: #FFFFFF;
+	font-size: 22px;
+	font-family: Arial;
+	text-align: center;
+}
+.letrageneral{
+	text-align: left;
+	color: #000000;
+	font-family: Arial;
+	font-size: 16px;
+}
+.color1{
+	color: #000000;
+}
+.borde1{
+	border-bottom: solid white 1px;
+}
+.borde2{
+	border: solid white 1px;
+}
+.colorfondo1{
+	background-color: #2D95F3;
+}
+.decoracion{
+	text-decoration: none;
+	color: #ffffff;
+}
+.lugar1{
+	padding: 170px;
+}
+.lugar2{
+	padding-left: 200px;
+}
+.forma1{
+	border: solid white 1.5px; 
+}
